@@ -1,0 +1,24 @@
+17-03-30 22:28:44 [INFO] ############################################################
+17-03-30 22:28:44 [INFO] #           PEEL EXPERIMENTS EXECUTION FRAMEWORK           #
+17-03-30 22:28:44 [INFO] ############################################################
+17-03-30 22:28:44 [INFO] Running experiments in suite 'flink.kmeans.production-scaling'
+17-03-30 22:28:44 [INFO] Constructing dependency graph for suite 'flink.kmeans.production-scaling'
+17-03-30 22:28:44 [INFO] +-- Loading resource reference.peel.conf
+17-03-30 22:28:44 [INFO] +-- Loading resource reference.spark-1.6.2.conf
+17-03-30 22:28:44 [INFO] +-- Loading resource reference.dstat-0.7.2.conf
+17-03-30 22:28:44 [INFO] +-- Loading resource reference.hdfs-2.7.1.conf
+17-03-30 22:28:44 [INFO] +-- Loading resource reference.flink-1.0.3.conf
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/spark-1.6.2.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/dstat-0.7.2.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/hdfs-2.7.1.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/flink-1.0.3.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/hosts/cboden-ThinkPad-X1-Carbon-3rd/spark-1.6.2.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/hosts/cboden-ThinkPad-X1-Carbon-3rd/dstat-0.7.2.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] +-- Loading file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/hosts/cboden-ThinkPad-X1-Carbon-3rd/hdfs-2.7.1.conf
+17-03-30 22:28:44 [INFO] [33m+-- Skipping file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/hosts/cboden-ThinkPad-X1-Carbon-3rd/flink-1.0.3.conf (does not exist)[0m
+17-03-30 22:28:44 [INFO] +-- Loading file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/application.conf
+17-03-30 22:28:44 [INFO] +-- Loading file /home/cboden/opensource-ml-bench/src/ml-benchmark/ml-benchmark-bundle/target/ml-benchmark/config/hosts/cboden-ThinkPad-X1-Carbon-3rd/application.conf
+17-03-30 22:28:44 [INFO] +-- Loading experiment configuration
+17-03-30 22:28:44 [INFO] +-- Loading current runtime values as configuration
+17-03-30 22:28:44 [INFO] +-- Loading system properties as configuration
+17-03-30 22:28:44 [INFO] `-- Resolving configuration
